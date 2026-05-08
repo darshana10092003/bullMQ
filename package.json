@@ -10,7 +10,10 @@
   "keywords": [],
   "description": "",
   "dependencies": {
+    "@bull-board/api": "^7.0.0",
+    "@bull-board/express": "^7.0.0",
     "bullmq": "^5.76.5",
+    "express": "^5.2.1",
     "ioredis": "^5.10.1"
   }
 }
